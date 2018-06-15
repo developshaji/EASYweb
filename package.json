@@ -1,0 +1,26 @@
+{
+  "name": "easy-web",
+  "version": "0.1.0",
+  "description": "Easy Web for creating complex website framework.",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^6.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developshaji/EASYweb.git"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "Shaji Selvaraj <developshaji@gmail.com> (http://www.ezakti.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/developshaji/EASYweb/issues"
+  },
+  "homepage": "https://github.com/developshaji/EASYweb#readme"
+}
